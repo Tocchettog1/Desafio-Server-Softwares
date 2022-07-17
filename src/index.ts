@@ -18,12 +18,13 @@ app.put('/user/:id', EditUser);
 //Delete User
 app.delete('/user/:id', DeleteUser);
 
+
 //Endpoints Playlists
 
 //Get All Playlists
 app.get('/playlists', GetAllPlaylists);
 //Create Playlist
-app.post('/playlist', CreatePlaylist);
+app.post('/playlist/:userId', CreatePlaylist);
 //Edit Playlist
 app.put('/playlist/:id', EditPlaylist);
 //Delete Playlist
