@@ -1,1 +1,5 @@
-Respositório criado para estudos e pesquisas de cursos voltados para programação
+Projeto PlayMusic - Desafio
+
+DOCUMENTAÇÂO POSTMAN
+
+https://documenter.getpostman.com/view/19720425/UzQxMPVH
